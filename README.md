@@ -1,4 +1,4 @@
-![Image of macintosh](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-alexis-colin.png)
+![Image of macintosh](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-alexiscolin.png)
 
 <!--
 **alexiscolin/alexiscolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
