@@ -1,5 +1,5 @@
 ![Image of macintosh](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-alexiscolin.png)
-
+<p align="center">Front End Developer since 2012, I work at the intersection of code and design. My favorite tools at the moment? Node, Vue, Nuxt, ThreeJS, the JamStack and still native JS. I'm an agnostic and curious developer who does not hesitate to break his habits and think outside the box to create tailor-made solutions and tools. I am available for new projects, working remotely or in Paris.</p>
 <!--
 **alexiscolin/alexiscolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
