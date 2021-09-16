@@ -3,15 +3,16 @@
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/mini-space-15.png)
 
-<h3 align="center">MY TOOLS</h3>
+<h3 align="center">SOME OF MY TOOLS</h3>
 
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/dev-icos-mini-spaces.svg)
 
-<h3 align="center">REMOTE WORKER</h3>
+<h3 align="center">AS A REMOTE WORKER</h3>
 <p align="center">Currently in Versailles&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;13:49&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;sunny&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;23°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening Celiopatri</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
+<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/snes-controller.png" alt="controller" align="right" width="400px"></p>
 <h3>LAST READINGS</h3>
 <p>Front End Developer since 2012, I work at the intersection of code and design.</p>
 <!--
