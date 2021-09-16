@@ -4,7 +4,6 @@
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/mini-space-15.png)
 
 <h3 align="center">MY TOOLS</h3>
-<p>&nbsp;</p>
 
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/dev-icos-mini-spaces.svg)
 
