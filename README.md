@@ -1,13 +1,14 @@
 ![Image of macintosh](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-alexiscolin.png)
-<p align="center" padding="100px"><strong>Front End Developer since 2012, I work at the intersection of code and design. My favorite tools at the moment? Node, Vue, Nuxt, ThreeJS, the JamStack and still native JS. I'm an agnostic and curious developer who does not hesitate to break his habits and think outside the box to create tailor-made solutions and tools. I am available for new projects, working remotely or in Paris.</strong></p>
+<p align="center"><strong>Front End Developer since 2012, I work at the intersection of code and design. My favorite tools at the moment? Node, Vue, Nuxt, ThreeJS, the JamStack and still native JS. I'm an agnostic and curious developer who does not hesitate to break his habits and think outside the box to create tailor-made solutions and tools. I am available for new projects, working remotely or in Paris.</strong></p>
 
-<h2 align="center">MY TOOLS</h2>
+<h3 align="center">MY TOOLS</h3>
 
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/dev-icos-spaces.svg)
 
+<h3 align="center">REMOTE WORKER</h3>
+<p align="center">Since 2016, I’m a remote freelancer. I spend my time between Paris and Tokyo.</p>
+<p align="center">Currently in Versailles   |   13:49   |&nbsp;&nbsp;&nbsp;sunny&nbsp;&nbsp;&nbsp;|   23°c   |   traffic OK   |   Listening Indilla</p>
 ![](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space.png)
-
-<h2 align="center">REMOTE WORKER</h2>
 
 <table align="center">
 <thead>
