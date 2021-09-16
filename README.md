@@ -12,7 +12,7 @@
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
-<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/snes-controller.png" alt="controller" align="right" width="400px"></p>
+<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/snes-controller.png" alt="controller" align="right" width="300px"></p>
 <h3>LAST READINGS</h3>
 <p>Front End Developer since 2012, I work at the intersection of code and design.</p>
 <!--
