@@ -3,7 +3,7 @@
 
 <h2 align="center">MY TOOLS</h2>
 
-![softwareé & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/dev-icos.svg)
+![softwareé & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/dev-icos-spaces.svg)
 
 <table align="center">
 <thead>
