@@ -6,8 +6,8 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/dev-icos-spaces.svg)
 
 <h3 align="center">REMOTE WORKER</h3>
-<p align="center">Since 2016, I’m a remote freelancer. I spend my time between Paris and Tokyo.</p>
-<p align="center">Currently in Versailles   |   13:49   |&nbsp;&nbsp;&nbsp;sunny&nbsp;&nbsp;&nbsp;|   23°c   |   traffic OK   |   Listening Indilla</p>
+<p align="center"><strong>Since 2016, I’m a remote freelancer. I spend my time between Paris and Tokyo.</strong></p>
+<p align="center">Currently in Versailles&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;13:49&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;sunny&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;23°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening Celiopatri</p>
 ![](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space.png)
 
 <table align="center">
