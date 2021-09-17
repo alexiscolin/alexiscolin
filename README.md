@@ -12,7 +12,7 @@
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
-<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/snes-controller.png" alt="controller" align="right" width="300px"></p>
+<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/snes-controller.png" alt="controller" align="right" width="50%"></p>
 <h3 align="right">LAST READINGS</h3>
 <p align="right">How to Get a Pixel-Perfect, Linearly Scaled UI — Georgi Nikoloff (CSS-Tricks.com)</p>
 <p align="right">Optimize JavaScript Execution. — Paul Lewis (google)</p>
