@@ -32,5 +32,5 @@
   <a href="mailto:alexis@jaunebleu.co" title="email">
     <img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-email.svg" alt="email" align="left" width="45px">
   </a>
-  <img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-pen.png" alt="controller" width="50%">
 </p>
+<p align="left"><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-pen.png" alt="pen" width="40%"></p>
