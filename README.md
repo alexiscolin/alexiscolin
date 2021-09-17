@@ -19,6 +19,8 @@
 <p align="left">npm audit: Broken by Design — (overreacted.io)</p>
 <p align="left">Headless eCommerce in 2021 — Andrew Underwood (commercejs.com)</p>
 
+![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
+
 <h3 align="left">SOCIAL & CONTACTS</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/alexiscolin/" title="linkedin">
@@ -28,6 +30,6 @@
     <img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-dribbble.svg" alt="dribbble" align="left" width="45px">
   </a>
   <a href="mailto:alexis@jaunebleu.co" title="email">
-    <img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-email.svg" alt="email" title="dribbble" align="left" width="45px">
+    <img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-email.svg" alt="email" align="left" width="45px">
   </a>
 </p>
