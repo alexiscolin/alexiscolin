@@ -13,10 +13,10 @@
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/snes-controller.png" alt="controller" align="right" width="300px"></p>
-<h3>LAST READINGS</h3>
-<p>How to Get a Pixel-Perfect, Linearly Scaled UI — Georgi Nikoloff (CSS-Tricks.com)</p>
-<p>Optimize JavaScript Execution. — Paul Lewis (google)</p>
-<p>npm audit: Broken by Design — (overreacted.io)</p>
-<p>Headless eCommerce in 2021 — Andrew Underwood (commercejs.com)</p>
+<h3 align="right">LAST READINGS</h3>
+<p align="right">How to Get a Pixel-Perfect, Linearly Scaled UI — Georgi Nikoloff (CSS-Tricks.com)</p>
+<p align="right">Optimize JavaScript Execution. — Paul Lewis (google)</p>
+<p align="right">npm audit: Broken by Design — (overreacted.io)</p>
+<p align="right">Headless eCommerce in 2021 — Andrew Underwood (commercejs.com)</p>
 
-<h3 align="center">CONTACTS</h3>
+<h3 align="right">CONTACTS</h3>
