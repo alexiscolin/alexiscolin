@@ -33,4 +33,4 @@
     <img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-email.svg" alt="email" align="left" width="45px">
   </a>
 </p>
-<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-pen.png" alt="controller" align="left" width="50%"></p>
+<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-pen.png" alt="controller" align="right" width="50%"></p>
