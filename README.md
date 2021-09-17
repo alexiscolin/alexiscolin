@@ -20,4 +20,4 @@
 <p align="left">Headless eCommerce in 2021 — Andrew Underwood (commercejs.com)</p>
 
 <h3 align="left">CONTACTS</h3>
-<p align="left"><a href="https://www.linkedin.com/in/alexiscolin/"><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-linkedin.png" alt="linkedin" align="left"></a><a href="https://www.linkedin.com/in/alexiscolin/"><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-linkedin.png" alt="linkedin" align="left"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/alexiscolin/"><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-linkedin.svg" alt="linkedin" align="left"></a><a href="https://www.linkedin.com/in/alexiscolin/"><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-linkedin.svg" alt="linkedin" align="left"></a></p>
