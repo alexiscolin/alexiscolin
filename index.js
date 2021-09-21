@@ -5,7 +5,7 @@ const MUSTACHE_MAIN_DIR = './template.mustache';
 
 // datas
 let DATA = {
-    place: 'Versailles',
+    place: 'France',
 };
 
 /**
@@ -57,8 +57,9 @@ async function getMusic() {
     await fetch(`https://api.jaunebleu.co/Get/music`)
         .then(res => res.json())
         .then(res => {
-            DATA.music = res.track_name;
-            DATA.artist = res.artist.split(', ')[0]; // get main artist only
+            const mainArtist = res.artist.split(', ')[0]; // get main artist onl
+            DATA.music = res.track_name.charAt(0).toUpperCase() + res.track_name.slice(1); // capitalize first letter
+            DATA.artist = mainArtist.charAt(0).toUpperCase() + mainArtist.slice(1); // same
         })
 };
 
