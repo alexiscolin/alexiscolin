@@ -8,7 +8,7 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in Versailles&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;broken clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;17°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;subway traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening "Liberate" by Tibeauthetraveler, Lawrence Walther</p>
+<p align="center">Currently in Versailles&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;broken clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;17°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening "snowstorm in april" by tender spring</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
@@ -17,7 +17,7 @@
 <p align="left">How to Get a Pixel-Perfect, Linearly Scaled UI — Georgi Nikoloff (css-tricks.com)</p>
 <p align="left">npm audit: Broken by Design — (overreacted.io)</p>
 <p align="left">Simple postprocessing in three.js — Luigi De Rosa (luruke.medium.com)</p>
-<p align="left">A Guide To Undoing Mistakes With Git (Part 1) — (www.smashingmagazine.com)</p>
+<p align="left">A Guide To Undoing Mistakes With Git (Part 1) — (smashingmagazine.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 

@@ -58,7 +58,7 @@ async function getMusic() {
         .then(res => res.json())
         .then(res => {
             DATA.music = res.track_name;
-            DATA.artist = res.artist;
+            DATA.artist = res.artist.split(', ')[0]; // get main artist only
         })
 };
 
@@ -70,15 +70,15 @@ async function getPocketArticles() {
         .then(res => res.json())
         .then(res =>{
             DATA.readings = Object.values(res.list)
-                .filter(art => art.tags && art.tags.hasOwnProperty('dev'))
-                .sort((a, b) => a.time_added - b.time_added)
-                .reverse()
-                .slice(0, 4)
-                .map(art => {
+                .filter(art => art.tags && art.tags.hasOwnProperty('dev')) //dev tag only
+                .sort((a, b) => a.time_added - b.time_added) // ordered by saved time
+                .reverse() // last first
+                .slice(0, 4) // max 4 articles
+                .map(art => { // content
                     return {
                         title: art.resolved_title,
                         author: art.authors ? ` ${Object.values(art.authors)[0].name}`: '',
-                        website: art.given_url.match(/^https?\:\/\/(?!(?:www\.)?(?:youtube\.com|youtu\.be))([^\/:?#]+)(?:[\/:?#]|$)/i)[1]
+                        website: art.given_url.match(/^https?\:\/\/(?!(?:www\.)?(?:youtube\.com|youtu\.be))([^\/:?#]+)(?:[\/:?#]|$)/i)[1].replace(/^www\./,'')
                     }
                 })
         })
