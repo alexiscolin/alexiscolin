@@ -1,0 +1,27 @@
+{
+  "name": "alexiscolin",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexiscolin/alexiscolin.git"
+  },
+  "keywords": [
+    "alexiscolin"
+  ],
+  "author": "alexiscolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexiscolin/alexiscolin/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/alexiscolin/alexiscolin#readme",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.0.0"
+  }
+}
