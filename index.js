@@ -16,7 +16,12 @@ async function getTime() {
         .then(res => res.text())
         .then(res => {
             const date = new Date(res);
-            DATA.time = date.getHours() > 12 ? 'afternoon' : 'morning';
+            DATA.time = date.getHours() >= 22 ? 'night' 
+                : date.getHours() >= 18 ? 'evening' 
+                : date.getHours() >= 14 ? 'afternoon' 
+                : date.getHours() >= 12 ? 'noon' 
+                : date.getHours() >= 6 ? 'morning' 
+                : 'night';
         })
 };
 
@@ -26,8 +31,7 @@ async function getTime() {
 async function getWeather() { 
     await fetch(`https://api.jaunebleu.co/Get/weather`)
         .then(res => res.json())
-        .then(res => {
-            
+        .then(res => {  
             DATA.weather = res.weather[0].description;
             DATA.temperature = Math.round(res.main.temp);
         })
@@ -89,11 +93,11 @@ async function getPocketArticles() {
  * README GENERATION
  */
 async function renderMustrache() {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
-    if (err) throw err;
-    const output = Mustache.render(data.toString(), DATA);
-    fs.writeFileSync('README.md', output);
-  });
+    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) =>  {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), DATA);
+        fs.writeFileSync('README.md', output);
+    });
 }
 
 /**
