@@ -15,17 +15,17 @@ async function getTime() {
     await fetch(`https://api.jaunebleu.co/Get/hour`)
         .then(res => res.text())
         .then(res => {
-            const date = new Date(res);
-            DATA.time = date.getHours() >= 22 ? 'night' 
-                : date.getHours() >= 18 ? 'evening' 
-                : date.getHours() >= 14 ? 'afternoon' 
-                : date.getHours() >= 12 ? 'noon' 
-                : date.getHours() >= 6 ? 'morning' 
+            const regex = /T[0-9]{2}/g;
+            const hour = parseFloat(res.match(regex)[0].substring(1));
+            DATA.time = hour >= 22 ? 'night' 
+                : hour >= 18 ? 'evening' 
+                : hour >= 14 ? 'afternoon' 
+                : hour >= 12 ? 'noon' 
+                : hour >= 6 ? 'morning' 
                 : 'night';
 
             console.log(res)
-            console.log(date)
-            console.log(date.getHours())
+            console.log(hour)
             console.log(DATA.time)
         })
 };
