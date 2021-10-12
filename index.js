@@ -22,6 +22,11 @@ async function getTime() {
                 : date.getHours() >= 12 ? 'noon' 
                 : date.getHours() >= 6 ? 'morning' 
                 : 'night';
+
+            console.log(res)
+            console.log(date)
+            console.log(date.getHours())
+            console.log(DATA.time)
         })
 };
 
