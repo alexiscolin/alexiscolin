@@ -23,10 +23,6 @@ async function getTime() {
                 : hour >= 12 ? 'noon' 
                 : hour >= 6 ? 'morning' 
                 : 'night';
-
-            console.log(res)
-            console.log(hour)
-            console.log(DATA.time)
         })
 };
 
