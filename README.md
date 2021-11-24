@@ -8,16 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;morning&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;mist&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;2°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>JENOVA</i> by <i>Dunderpatrullen</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;morning&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;mist&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;3°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Eternal - Similar Outskirts Remix</i> by <i>Fokushi</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">Control Layout in a Multi-Directional Website — Alaa Abd El-Rahim (css-tricks.com)</p>
 <p align="left">Building a color scheme — Adam Argyle (web.dev)</p>
 <p align="left">The CSS Custom Property Toggle Trick — Chris Coyier (css-tricks.com)</p>
 <p align="left">Decentralized VueJS apps — Chiuzon (chiuzon.medium.com)</p>
-<p align="left">Composable CSS Animation In Vue With AnimXYZ — Ejiro Asiuwhu (smashingmagazine.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
