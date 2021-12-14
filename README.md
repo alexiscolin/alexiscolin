@@ -8,16 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;noon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;mist&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;7°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>A Forgotten Dynasty</i> by <i>J.T. Peterson</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;overcast clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;7°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>A Forgotten Dynasty</i> by <i>J.T. Peterson</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">MongoDB Schema Design Best Practices — Joe Karlsson (mongodb.com)</p>
 <p align="left">How to Draw Invisible Programming Concepts - Part One — (maggieappleton.com)</p>
 <p align="left">Reimagine Atomic CSS — anthony fu (antfu.me)</p>
 <p align="left">Diagonal Stripes Wipe Animation — Chris Coyier (css-tricks.com)</p>
-<p align="left">Top Web Design and UI Trends for 2022 — Carrie Cousins (designmodo.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
