@@ -8,7 +8,7 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;evening&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;clear sky&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;6°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>It&#39;s Beginning to Look a Lot like Christmas</i> by <i>Michael Bublé</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;evening&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;mist&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;5°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>We 3 kings</i> by <i>Blondette</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
