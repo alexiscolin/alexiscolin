@@ -8,16 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;clear sky&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;1°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix</i> by <i>Lana Del Rey</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;evening&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;clear sky&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;0°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Flash from the past</i> by <i>97SPECIAL</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">GraphQL with MongoDB and ExpressJS — Akarsh Srivastava (medium.com)</p>
 <p align="left">Node.js Everywhere with Environment Variables! — John Papa (medium.com)</p>
 <p align="left">MongoDB Schema Design Best Practices — Joe Karlsson (mongodb.com)</p>
 <p align="left">How to Draw Invisible Programming Concepts - Part One — (maggieappleton.com)</p>
-<p align="left">Reimagine Atomic CSS — anthony fu (antfu.me)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
