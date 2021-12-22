@@ -8,12 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;mist&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-2°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i></i> by <i></i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;night&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;mist&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-2°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Lonely walk</i> by <i>97SPECIAL</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">GraphQL with MongoDB and ExpressJS — Akarsh Srivastava (medium.com)</p>
+<p align="left">Node.js Everywhere with Environment Variables! — John Papa (medium.com)</p>
+<p align="left">MongoDB Schema Design Best Practices — Joe Karlsson (mongodb.com)</p>
+<p align="left">How to Draw Invisible Programming Concepts - Part One — (maggieappleton.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
