@@ -8,16 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;broken clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;11°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Flashback(Extended Mix)</i> by <i>ARForest</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;broken clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;10°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Darklight Escape</i> by <i>Matt Christensen</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">How to avoid SOLID principles violations in Vue. JS application — Manu Ustenko (itnext.io)</p>
 <p align="left">5 SOLID principles with JavaScript. How to make your code SOLID — Email (dev.to)</p>
 <p align="left">What you need to know about GraphQL enums — Charly Poly Follow (blog.logrocket.com)</p>
 <p align="left">Docker-Compose mongoDB Prod, Dev, Test Environment — Onexlab (onexlab-io.medium.com)</p>
-<p align="left">GraphQL with MongoDB and ExpressJS — Akarsh Srivastava (medium.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
