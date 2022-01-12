@@ -8,16 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;morning&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;fog&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-1°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Time travel</i> by <i>Chief.</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;morning&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;mist&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;1°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>God knows...</i> by <i>涼宮ハルヒ (CV.平野 綾)</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">ESLint and Prettier with Vite and Vue.js 3 — Daniel Kelly (vueschool.io)</p>
 <p align="left">Just-In-Time: The Next Generation of Tailwind CSS — (tailwindcss.com)</p>
 <p align="left">How to avoid SOLID principles violations in Vue. JS application — Manu Ustenko (itnext.io)</p>
 <p align="left">5 SOLID principles with JavaScript. How to make your code SOLID — Email (dev.to)</p>
-<p align="left">What you need to know about GraphQL enums — Charly Poly Follow (blog.logrocket.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
