@@ -8,16 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;noon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;clear sky&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;20°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Song of Healing</i> by <i>ROZEN</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;overcast clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;24°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Song of Healing</i> by <i>ROZEN</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">The Important Role of Design in Blockchain Products — (10clouds.com)</p>
 <p align="left">Precise Timing With Web Animations API — Kirill Myshkin (smashingmagazine.com)</p>
 <p align="left">Manage Accessible Design System Themes With CSS Color-Contrast() — Daniel Yuschick (smashingmagazine.com)</p>
 <p align="left">Naming design tokens — Lukas Oppermann (uxdesign.cc)</p>
-<p align="left">COLRv1 and CSS font-palette: Web Typography Gets Colorful — Ollie Williams (css-tricks.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
