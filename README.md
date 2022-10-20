@@ -8,16 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;noon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;few clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;18°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Ending Song - The Promise of the World - Merry-Go-Round of Life</i> by <i>Chieko Baisho</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;broken clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;21°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>You-Destructive - Remastering Version</i> by <i>Dai</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">Creating a color palette with Javascript — ZHANG Xinxin (dev.to)</p>
 <p align="left">Faster WebGL&#x2F;Three.js 3D graphics with OffscreenCanvas and Web Workers — Andrey Sitnik (evilmartians.com)</p>
 <p align="left">How Suspense Works in React 18 — Jose Granja (betterprogramming.pub)</p>
 <p align="left">Responsive Patterns — (bradfrost.github.io)</p>
-<p align="left">NextJS Dynamic Head For SEO — (javascriptarticles.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
