@@ -8,16 +8,12 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;light rain&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;11°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Tower of Fantasy (Original Motion Picture Soundtrack)- Meant to Be</i> by <i>Silver</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;light intensity drizzle&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;10°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Tower of Fantasy (Original Motion Picture Soundtrack)- Meant to Be</i> by <i>Silver</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
-<p align="left">How to build accessible cards–block links — (nomensa.com)</p>
-<p align="left">Container queries begin to land in stable browsers while the polyfill gets a big update — (developer.chrome.com)</p>
-<p align="left">How to get element bounds without forcing a reflow — (toruskit.com)</p>
-<p align="left">Achieve Continuous Deployment with Feature Flags — Talia Nassi (split.io)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
