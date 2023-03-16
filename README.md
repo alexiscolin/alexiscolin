@@ -8,16 +8,16 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;night&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;clear sky&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;7°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Map of Zones</i> by <i>Jimmy Cosmos</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;night&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;clear sky&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;6°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Map of Zones</i> by <i>Jimmy Cosmos</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
+<p align="left">Making Tailwind JIT work with Hugo, the Version 3 edition — (brycewray.com)</p>
 <p align="left">Building Complex Forms In Vue — Olufunke Moronfolu (smashingmagazine.com)</p>
 <p align="left">Top 5 Web APIs for performance-based analysis (and how to use them) — Joe Attardi Follow (blog.logrocket.com)</p>
 <p align="left">How to build accessible cards–block links — (nomensa.com)</p>
-<p align="left">Container queries begin to land in stable browsers while the polyfill gets a big update — (developer.chrome.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
