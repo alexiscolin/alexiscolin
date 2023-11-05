@@ -14,10 +14,6 @@
 
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/controller-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST READINGS</h3>
-<p align="left">AVL Trees Explained In Javascript: Mastering JavaScript — Patrick Karsh (medium.com)</p>
-<p align="left">Advanced Async Patterns: Singleton Promises — (jonmellman.com)</p>
-<p align="left">Perfect timing — How to build a Javascript-powered clock for your browser! — Ian Harrison (medium.com)</p>
-<p align="left">Animations with alpha textures in Three.js — Pierfrancesco Soffritti (pierfrancesco-soffritti.medium.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
