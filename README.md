@@ -8,7 +8,7 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;clear sky&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;31°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Shinobu Kocho Theme - Cover</i> by <i>Samuel Kim</i></p>
+<p align="center">Currently in France&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;evening&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;clear sky&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;31°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic OK&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Shinobu Kocho Theme - Cover</i> by <i>Samuel Kim</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
@@ -16,7 +16,7 @@
 <h3 align="left">LAST READINGS</h3>
 <p align="left">Testing HTML With Modern CSS — (heydonworks.com)</p>
 <p align="left">How to integrate mailchimp with React — (blog.afrieirham.com)</p>
-<p align="left">Web Components API: Definition, Attributes And Props — (javascript.works-hub.com)</p>
+<p align="left">Web Components API: Definition, Attributes And Props — Rafa Romero Dios (javascript.works-hub.com)</p>
 <p align="left">Getting into web components - an intro — Brecht De Ruyte (utilitybend.com)</p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
