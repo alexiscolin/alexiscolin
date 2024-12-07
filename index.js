@@ -5,7 +5,7 @@ const MUSTACHE_MAIN_DIR = './template.mustache';
 
 // datas
 let DATA = {
-    place: 'France',
+    place: 'Japan',
 };
 
 /**
