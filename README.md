@@ -8,7 +8,7 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">AS A REMOTE WORKER</h3>
-<p align="center">Currently in Japan&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;noon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;broken clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;29°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Ca va ou ça va pas ? - Zen Club Mix</i> by <i>Froggy Mix</i></p>
+<p align="center">Currently in Japan&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;noon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;broken clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;28°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Traffic &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Doin&#39; It Again - Original Radio Version</i> by <i>DJ Volume</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
