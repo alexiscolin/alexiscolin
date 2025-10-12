@@ -13,7 +13,7 @@
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
-<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/floppy-right.png" alt="controller" align="left" width="48%"></p>
+<p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/floppy-right.png" alt="controller" align="left" width="40%"></p>
 <h3 align="left">LAST WORKS</h3>
 <ul>
 <li>Led the front-end of Gnoweb, a universal and secure interface to explore Gno.land apps and source code</li>
