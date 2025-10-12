@@ -16,13 +16,13 @@
 <p><img src="https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/floppy-right.png" alt="controller" align="left" width="48%"></p>
 <h3 align="left">LAST WORKS</h3>
 <ul>
-<li>Led the front-end of Gnoweb, a universal and secure interface to explore Gno.land apps and source code.</li>
-<li>Built Gno Connect, a Web3 React dApp to connect wallets and run Gno.land contracts via a clean no-code UI.</li>
-<li>Built a 3D chess dApp on Gno.land from Figma / Blender designs to a native TypeScript + Go implementation.</li>
-<li>Built Gno Studio, a React + TypeScript IDE to write, test, and deploy smart contracts directly in the browser.</li>
-<li>Developed web3 Launchpad, kickstarting new sovereign PoS Cosmos chains from fundraising to launch.</li>
-<li>Designed and implemented design systems for Emeris and AiB Vue3 DeFi Chrome extension wallets.</li>
-<li>Developed a Vue3 governance platform for proposal voting, visualization, and discussions.</li>
+<li>Led the front-end of Gnoweb, a universal and secure interface to explore Gno.land apps and source code</li>
+<li>Built Gno Connect, a Web3 React dApp to connect wallets and run Gno.land contracts via a clean no-code UI</li>
+<li>Built a 3D chess dApp on Gno.land from Figma / Blender designs to a native TypeScript / Three.js + Go stack</li>
+<li>Built Gno Studio, a React + TypeScript IDE to write, test, and deploy smart contracts directly in the browser</li>
+<li>Developed web3 Launchpad for new sovereign PoS Cosmos chains, connecting validators to early holders</li>
+<li>Designed and implemented design systems for Emeris and AiB Vue3 DeFi Chrome extension wallets</li>
+<li>Developed a Vue3 governance platform for proposal voting, visualization, and discussions</li>
 <li>Built Faucet, Airdrop trackers, Ops community portal, and all documentation / websites</li>
 </ul>
 
