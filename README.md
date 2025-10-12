@@ -34,7 +34,7 @@
 <p align="left">Web Components API: Definition, Attributes And Props — (javascript.works-hub.com)</p>
 <p align="left">Getting into web components - an intro — (utilitybend.com)</p>
 
-![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-15.png)
+![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/mini-space-15.png)
 
 <h3 align="left">SOCIAL & CONTACTS</h3>
 <p align="left">
