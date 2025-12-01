@@ -9,7 +9,7 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">RIGHT NOW</h3>
-<p align="center">Currently in Japan&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;evening&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;broken clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;17°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Four to the Floor</i> by <i>Starsailor</i></p>
+<p align="center">Currently in Japan&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;evening&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;overcast clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;15°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Four to the Floor</i> by <i>Starsailor</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
