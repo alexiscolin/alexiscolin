@@ -9,7 +9,7 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">RIGHT NOW</h3>
-<p align="center">Currently in Japan&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;few clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;11°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Mon frère</i> by <i>Maxime Le Forestier</i></p>
+<p align="center">Currently in Japan&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;afternoon&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;few clouds&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;11°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i>Dune Riders</i> by <i>Ferus Melek</i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
