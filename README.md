@@ -1,5 +1,5 @@
 ![Image of macintosh](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/cover-alexiscolin-wording.png)
-<p align="center"><strong>Staff Front-End & AI Product Engineer: Tech Lead of 6 (3 continents), working at the intersection of code, design, and AI. Hands-on: I code what matters and orchestrate AI agents (MCP, RAG, evals...) to automate the rest, at work and on personal projects. 14 years shipping products end to end. I design and engineer apps and services with React, Vue, TypeScript, Node, Go, and WebGL, bridging design systems, AI, blockchain logic, and UX to make complex systems intuitive.</strong></p>
+<p align="center"><strong>Principal Front-End & AI Product Engineer: Tech Lead of 6 (3 continents), working at the intersection of code, design, and AI. Hands-on: I code what matters and orchestrate AI agents (MCP, RAG, evals...) to automate the rest, at work and on personal projects. 14 years shipping products end to end. I design and engineer apps and services with React, Vue, TypeScript, Node, Go, and WebGL, bridging design systems, AI, blockchain logic, and UX to make complex systems intuitive.</strong></p>
 <p align="center"><strong>Based in Japan, collaborating remotely across APAC, EU, and US time zones.</strong></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/mini-space-15.png)
@@ -9,7 +9,7 @@
 ![softwares & languages & frameworks I use](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/ico-tools.svg)
 
 <h3 align="center">RIGHT NOW</h3>
-<p align="center">Currently in Japan&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;evening&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;moderate rain&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;27°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i></i> by <i></i></p>
+<p align="center">Currently in Japan&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;night&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;moderate rain&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;26°c&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Listening <i></i> by <i></i></p>
 
 ![space](https://raw.githubusercontent.com/alexiscolin/alexiscolin/main/space-40.png)
 
